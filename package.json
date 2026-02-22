@@ -1,0 +1,11 @@
+{
+  "name": "on-chain-governance-dao",
+  "version": "1.0.0",
+  "description": "ERC-20 Based Governance System",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.20.1"
+  }
+}
